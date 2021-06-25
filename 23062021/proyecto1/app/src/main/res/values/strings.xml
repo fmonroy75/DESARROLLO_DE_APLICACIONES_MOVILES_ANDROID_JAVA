@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="checkBox">Sumar</string>
+    <string name="checkBox2">Restar</string>
+    <string name="checkBox3">Multiplicar</string>
+    <string name="checkBox4">Dividir</string>
+
+</resources>

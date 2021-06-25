@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Text">resultado</string>
+    <string name="Button">Calcular</string>
+    <string name="edit1"></string>
+    <string name="edit2"></string>
+</resources>
