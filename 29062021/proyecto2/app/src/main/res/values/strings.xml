@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">probando putextra</string>
+    <string name="editNombre">Ingrese su Nombre</string>
+    <string name="edit1">Ingrese Nota Modulo 1</string>
+    <string name="edit2">Ingrese Nota Modulo 2</string>
+    <string name="edit3">Promedio</string>
+    <string name="button">Enviar</string>
+    <string name="button2">Volver</string>
+    <string name="button3">Calcular</string>
+    <string name="textView"></string>
+    <string name="textView2"></string>
+</resources>

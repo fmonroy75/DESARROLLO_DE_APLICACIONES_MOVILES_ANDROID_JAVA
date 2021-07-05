@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">userbd</string>
+    <string name="editCod">Código</string>
+    <string name="editNom">Descripción</string>
+    <string name="editPre">Precio</string>
+    <string name="button">Crear Producto</string>
+    <string name="button2">Buscar Producto</string>
+    <string name="button3">Modificar Producto</string>
+    <string name="button4">Borrar Producto</string>
+
+</resources>

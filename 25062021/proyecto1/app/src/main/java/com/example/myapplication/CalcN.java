@@ -49,5 +49,6 @@ public class CalcN extends AppCompatActivity {
     public void volver(View v){
         Intent inicio = new Intent(this, MainActivity.class );
         startActivity(inicio);
+        finish();
     }
 }

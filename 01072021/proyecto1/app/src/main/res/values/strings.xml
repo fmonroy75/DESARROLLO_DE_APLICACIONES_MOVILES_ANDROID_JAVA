@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">userbd</string>
+    <string name="editCod">Código</string>
+    <string name="editNom">Descripción</string>
+    <string name="editPre">Precio</string>
+    <string name="button">Crear Producto</string>
+    <string name="button2">Buscar Producto</string>
+    <string name="button3">Modificar Producto</string>
+    <string name="button4">Borrar Producto</string>
+    <string name="button5">Limpiar</string>
+    <string name="button6">Mantenedor Producto</string>
+    <string name="button7">Mantenedor Cliente</string>
+    <string name="button8">Mantenedor Proveedor</string>
+    <string name="button9">Vender</string>
+    <string name="button10">Comprar</string>
+
+    <string name="editIdProv">Id Proveedor</string>
+    <string name="editProv">Razon Social</string>
+    <string name="swEstado">Estado</string>
+    <string name="button11">Crear Proveedor</string>
+    <string name="button12">Buscar Proveedor</string>
+    <string name="button13">Modificar Proveedor</string>
+
+    <string name="button17">Crear Cliente</string>
+    <string name="button15">Buscar Cliente</string>
+    <string name="button16">Modificar Cliente</string>
+
+    <string name="button14">Volver</string>
+    <string name="cantidad">Cantidad</string>
+</resources>

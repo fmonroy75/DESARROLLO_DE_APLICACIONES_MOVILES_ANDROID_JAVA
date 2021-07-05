@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">resumen semana</string>
+    <string name="button">Calculadora normal</string>
+    <string name="button2">Calculadora Spinner</string>
+    <string name="button3">Calculadora Checkbox</string>
+    <string name="button4">Salir</string>
+
+    <string name="volver">Volver</string>
+    <string name="button8">Volver</string>
+    <string name="Text">Resultado</string>
+    <string name="Button">Calcular</string>
+    <string name="edit1"></string>
+    <string name="edit2"></string>
+    <string name="edit4"></string>
+    <string name="edit5"></string>
+
+
+    <string name="checkBox">Sumar</string>
+    <string name="checkBox2">Restar</string>
+    <string name="checkBox3">Multiplicar</string>
+    <string name="checkBox4">Dividir</string>
+</resources>
