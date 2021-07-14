@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Foto</string>
+    <string name="camara">Camara</string>
+    <string name="preview">Preview</string>
+    <string name="grabar">Grabar</string>
+</resources>
