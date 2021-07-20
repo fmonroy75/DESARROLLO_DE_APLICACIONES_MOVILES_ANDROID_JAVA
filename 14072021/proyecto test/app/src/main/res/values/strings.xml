@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">WalletControl</string>
+    <string name="gastos">Gastos</string>
+    <string name="ingresos">Ingresos</string>
+    <string name="cuentas">Cuentas</string>
+    <string name="reportes">Reportes</string>
+    <string name="reportes1">Reportes</string>
+    <string name="reportes2">Reportes</string>
+
+    <string name="cerrar">Cerrar</string>
+    <string name="grabar">Grabar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="buscar">Buscar</string>
+    <string name="modificar">Modificar</string>
+    <string name="vigente">Vigente</string>
+    <string name="list">Lista</string>
+    <string name="monto">Monto</string>
+    <string name="fechadevengue">Fecha Devengue</string>
+    <string name="obs">Observaciones</string>
+    <string name="cuenta">Cuenta Gasto</string>
+    <string name="mes">Mes</string>
+    <string name="año">Año</string>
+    <string name="total">Total: </string>
+
+    <string name="desccorta">Descripción Corta</string>
+    <string name="desclarga">Descripción Larga</string>
+    <string name="estado">Estado</string>
+    <string name="diapago">Días de Pago</string>
+
+
+</resources>

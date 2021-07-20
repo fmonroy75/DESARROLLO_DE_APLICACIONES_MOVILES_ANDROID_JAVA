@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnuCuentas"
+        android:title="@string/cuentas" />
+    <item
+        android:id="@+id/mnuIngresos"
+        android:title="@string/ingresos" />
+    <item
+        android:id="@+id/mnuGastos"
+        android:title="@string/gastos" />
+    <item
+        android:id="@+id/mnuReport"
+        android:title="@string/reportes" />
+</menu>
